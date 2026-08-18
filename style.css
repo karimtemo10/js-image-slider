@@ -12,7 +12,7 @@ body {
   align-items: center;
 }
 .container {
-  max-width: 650px;
+  max-width: 325px;
   width: 100%;
   padding: 10px;
   background-color: #f4f1f1;
@@ -54,6 +54,7 @@ button {
 .btn-next {
   right: 10px;
 }
+
 .btn-prev {
   left: 10px;
 }
