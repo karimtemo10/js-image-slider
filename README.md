@@ -14,4 +14,4 @@ An interactive image slider that automatically cycles through images with a smoo
 - CSS3 (Styling & Animations)
 - Vanilla JavaScript (DOM Manipulation & SetInterval)
 ## 📸 Screenshots
-! [Image slide project](image slide.png)
+![Image slide project](image-slide.png)
