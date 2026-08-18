@@ -4,6 +4,8 @@
 ## 📌 Description
 An interactive image slider that automatically cycles through images with a smooth transition, while also allowing users to manually navigate between them at their own pace.
 
+- https://karimtemo10.github.io/js-image-slider/
+
 ## ✨ Features
 - ⚡ Smooth automatic image transition (Auto-play).
 - ⬅️➡️ Manual navigation using Next and Previous buttons.
